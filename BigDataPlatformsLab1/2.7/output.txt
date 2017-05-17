@@ -1,0 +1,98 @@
+Year= ANNEE PLANTATION , Height=HAUTEUR
+Year= 1935 , Height=13.0
+Year= 1854 , Height=20.0
+Year= 1862 , Height=22.0
+Year= 1906 , Height=16.0
+Year= 1784 , Height=30.0
+Year= 1860 , Height=45.0
+Year= 1840 , Height=40.0
+Year= 1933 , Height=16.0
+Year=  , Height=30.0
+Year= 1913 , Height=33.0
+Year=  , Height=30.0
+Year=  , Height=35.0
+Year= 1862 , Height=35.0
+Year=  , Height=12.0
+Year= 1850 , Height=30.0
+Year=  , Height=10.0
+Year= 1857 , Height=10.0
+Year= 1882 , Height=27.0
+Year= 1872 , Height=
+Year=  , Height=30.0
+Year= 1843 , Height=26.0
+Year= 1872 , Height=18.0
+Year= 1845 , Height=28.0
+Year= 1930 , Height=20.0
+Year=  , Height=10.0
+Year= 1870 , Height=25.0
+Year= 1601 , Height=11.0
+Year=  , Height=12.0
+Year= 1879 , Height=22.0
+Year= 1850 , Height=20.0
+Year=  , Height=35.0
+Year= 1894 , Height=18.0
+Year=  , Height=30.0
+Year= 1935 , Height=30.0
+Year= 1873 , Height=10.0
+Year= 1862 , Height=34.0
+Year= 1833 , Height=12.0
+Year=  , Height=35.0
+Year=  , Height=18.0
+Year= 1897 , Height=14.0
+Year= 1850 , Height=30.0
+Year= 1872 , Height=40.0
+Year= 1882 , Height=30.0
+Year= 1859 , Height=30.0
+Year= 1900 , Height=16.0
+Year= 1862 , Height=35.0
+Year= 1930 , Height=22.0
+Year= 1870 , Height=5.0
+Year= 1871 , Height=25.0
+Year= 1875 , Height=14.0
+Year= 1860 , Height=15.0
+Year= 1935 , Height=15.0
+Year= 1905 , Height=2.0
+Year= 1879 , Height=20.0
+Year= 1895 , Height=23.0
+Year= 1829 , Height=30.0
+Year= 1895 , Height=10.0
+Year=  , Height=12.0
+Year= 1862 , Height=30.0
+Year= 1857 , Height=27.0
+Year= 1945 , Height=20.0
+Year= 1880 , Height=20.0
+Year= 1905 , Height=30.0
+Year=  , Height=6.0
+Year= 1868 , Height=15.0
+Year= 1906 , Height=12.0
+Year= 1815 , Height=31.0
+Year= 1860 , Height=42.0
+Year= 1935 , Height=12.0
+Year=  , Height=14.0
+Year= 1814 , Height=31.0
+Year= 1900 , Height=20.0
+Year= 1895 , Height=25.0
+Year=  , Height=20.0
+Year= 1772 , Height=13.0
+Year= 1782 , Height=30.0
+Year= 1840 , Height=30.0
+Year=  , Height=22.0
+Year= 1893 , Height=18.0
+Year= 1865 , Height=25.0
+Year= 1882 , Height=20.0
+Year=  , Height=15.0
+Year= 1814 , Height=20.0
+Year= 1865 , Height=20.0
+Year= 1939 , Height=25.0
+Year= 1852 , Height=30.0
+Year=  , Height=20.0
+Year= 1907 , Height=9.0
+Year= 1847 , Height=40.0
+Year= 1859 , Height=25.0
+Year=  , Height=12.0
+Year= 1852 , Height=30.0
+Year= 1863 , Height=12.0
+Year= 1896 , Height=16.0
+Year= 1918 , Height=32.0
+Year= 1860 , Height=22.0
+Year= 1870 , Height=15.0
